@@ -2,16 +2,12 @@
         padding: 0;
         margin: 0;
     }
-    #navmenu{
-        background-color: rgb(220, 197, 197);
-        text-decoration: none;
+    #nav a{
+        background-color: bisque;
+        color: black;
+        text-align: justify;
         justify-content: space-evenly;
-    
     }
-    .nav a{
-        color: rgb(21, 19, 19);
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 50px;
-    text-decoration: none;
-    text-align: justify;
-    }
+#nav :hover{
+    color: rgb(58, 139, 139);
+}
